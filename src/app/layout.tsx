@@ -1,5 +1,6 @@
 
 import { Header } from "../components/header";
+import 'bootstrap/dist/css/bootstrap.min.css';
 import "./globals.css";
 import { Metadata } from "next";
 
